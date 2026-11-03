@@ -60,5 +60,6 @@ Full report: [bug-reports/BUG-001_GridWalker_ExitButton.md](bug-reports/BUG-001_
 
 ## Contact
 
-- LinkedIn: add link here
-- Email: add email here
+- LinkedIn: tegar gemilang rasidi
+- Email: tegargemilangrasidi28@gmail.com
+  
